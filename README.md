@@ -2,4 +2,4 @@
 
 A clone version of the Official PocketCasts App.
 
-![alt text](https://github.com/fredricksimi/PocketCasts-Clone/blob/master/Screenshot_1.png?raw=true)
+![alt text](https://github.com/fredricksimi/PocketCasts-Clone/blob/master/Screenshot_1.png=277x569)
